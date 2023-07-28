@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 | [국민대학교] 머신러닝     |    (주)스카우트 Salary Prediction 프로젝트    | link |
 | [국민대학교] 2022 D&A 머신러닝 Competition   |    신용카드 대금 연체 정도 예측    |  link |
 | [국민대학교] 딥러닝     |    딥러닝을 활용한 반려동물 피부질환 분류    | link |
-| [외부] BDA    |  CJ 더마켓 일반회원에 대한 프라임 회원 & 임직원의 프라임 회원 예측 | link |
+| [BDA] CJ제일제당  |  CJ 더마켓 일반회원에 대한 프라임 회원 & 임직원의 프라임 회원 예측 | link |
 
 
 
