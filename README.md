@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 | 2022.12 ~ 2023.11  |  국민대학교  |  AI빅데이터융합경영학과 | 제 2대 학생회 ALPHA | 홍보부장 |    
 
 ## 활동
-| 기간  |  소속  |  활동명 |
+**| 기간 | 소속 |활동명 |**
 | 2023.08 ~ 2023.12  |  Naver  |  Naver AI RUSH 앰배서더 | 
 
 ## Project
