@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 | [국민대학교] 딥러닝     |    딥러닝을 활용한 반려동물 피부질환 분류    | link |
 | [BDA] CJ제일제당  |  CJ 더마켓 일반회원에 대한 프라임 회원 & 임직원의 프라임 회원 예측 | link |
 | [NAVER] AI RUSH  |  CLOVA를 이용한 맞춤형 강의 추천 챗봇 서비스 | link |
+| 바이트 디그리  |  업무성과 분석을 통한 우리 회사 우수 성과자들의 특성분석	 | link |
 
 
 ## Certificate
